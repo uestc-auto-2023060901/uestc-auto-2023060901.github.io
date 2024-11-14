@@ -1,6 +1,6 @@
-baseurl: 'uestc-auto-2023060901.github.io'
+baseurl: '/uestc-auto-2023060901.github.io/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: "UESTC AUTO"
 
 logo:
   mobile: "images/logo/logo-mobile.svg"

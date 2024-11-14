@@ -1,5 +1,5 @@
 ---
-title: Services
+title: 获奖情况
 layout: services
 description: Services
 intro_image: "images/illustrations/reading.svg"

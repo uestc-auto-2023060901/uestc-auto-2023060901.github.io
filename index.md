@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: 电子科技大学自动化工程学院2023060901
 layout: home
 description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 intro_image: "images/illustrations/pointing.svg"
@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# 电子科技大学自动化工程学院2023060901
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+这里是电子科技大学自动化工程学院2023060901班.
