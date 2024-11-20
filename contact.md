@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: 班级活动
 layout: contact
 description: Contact
 ---

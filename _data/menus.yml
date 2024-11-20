@@ -8,7 +8,7 @@ main:
   - name: "关于班级"
     url: "/about/"
     weight: 4
-  - name: "联系"
+  - name: "班级活动"
     url: "/contact/"
     weight: 5
 
@@ -16,6 +16,6 @@ footer:
   - name: "主页"
     url: "/"
     weight: 1
-  - name: "联系"
+  - name: "班级活动"
     url: "/contact/"
     weight: 2
