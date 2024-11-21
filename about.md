@@ -1,17 +1,17 @@
 ---
-title: About
+title: 关于班级
 layout: page
 description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+班级现有成员 30 人，**入党积极分子结业 6 人**，正在参加发展对象、积极分子培训班 **10 人**，**人数位居全年级前列**；班级四级**通过率 100%**，六级**通过率 63.3%**；班级成员在校、院、班各级组织中**担任职务共 23 项**，累计志愿服务时长近 **1000 小时**，荣获各类奖项、荣誉 **72 项**。班级成员在“令德令才，实验实知”的班风指引下，致力于培养卓越的气质与才华、高尚的道德与品质，以及务实求真、身体力行的学习和生活态度，为实现个人理想，打造朝气蓬勃、锐意进取、求实创新、团结共进的班级体而不懈奋斗。
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
-# Objectives
+
+![关于班级](/images/about_class.jpg)
+
+<!-- # Objectives
 
 Financial accounting and financial reporting are often used as synonyms.
 
@@ -84,4 +84,4 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
     - international
 - goodwill
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. -->

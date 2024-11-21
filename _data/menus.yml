@@ -1,5 +1,5 @@
 main:
-  - name: "获奖情况"
+  - name: "班级活动"
     url: "/services/"
     weight: 2
   - name: "班级成员"
@@ -8,7 +8,7 @@ main:
   - name: "关于班级"
     url: "/about/"
     weight: 4
-  - name: "班级活动"
+  - name: "获奖情况"
     url: "/contact/"
     weight: 5
 
